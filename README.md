@@ -9,7 +9,7 @@ composer require hanson/open-taobao-sdk:dev-master -vvv
 
 ### 使用
 
-```
+```php
 <?php
 
 include __DIR__.'/../vendor/autoload.php';
